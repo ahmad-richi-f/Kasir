@@ -1,0 +1,6 @@
+{
+  "name": "KasirKita POS",
+  "description": "Sistem kasir toko dan manajemen stok dengan autentikasi karyawan, pembayaran Tunai & QRIS, notifikasi stok menipis, cetak struk, laporan harian Excel/PDF, serta source code PHP & MySQL (phpMyAdmin XAMPP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
